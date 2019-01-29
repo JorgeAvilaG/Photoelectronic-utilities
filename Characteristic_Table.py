@@ -1,8 +1,6 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Jan 18 11:44:23 2019
 
-@author: Jorge A
+"""
+Program to create a csv with the characteristic of solar cells
 """
 import os
 
