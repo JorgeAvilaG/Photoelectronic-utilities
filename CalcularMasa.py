@@ -1,4 +1,6 @@
 """
+Program that calculate the amount of solvent and ionic liquid need to prepare solutions of luminescent complexes.
+
 Programa que calcula la cantidad de disolvente y de ionic liquid que necesitas para
 preparar la disolución de complejo
 
